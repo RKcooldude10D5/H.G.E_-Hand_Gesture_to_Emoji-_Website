@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Mochiy Pop P One', sans-serif;
+  color:black;
+  background: linear-gradient(white 0%, white 50%, gold 100%);
+  
+}
+.emoji
+{
+  font-size:48px;
+}
+#button{
+  margin-bottom: 25px;
+}
+.heading{
+  font-size: 25px;
+}
+#H.G.Elogo{
+    width: 50px;
+    height: 50px;
+    font-weight: bolder;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
